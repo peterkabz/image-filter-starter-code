@@ -1,5 +1,8 @@
 # Udagram Image Filtering Microservice
 
+PROJECT BASE URL: udagram2.us-east-1.elasticbeanstalk.com
+PROJECT REPO URL : https://github.com/peterkabz/image-filter-starter-code.git
+
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to
 register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
 
